@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/wShF3QK/toronto-154805.jpg"/>
 
 # Ontario house rent prediction
-***
+
 ### Can you suggest house rent in Ontario cities to newcomers?
 
 **House rent in Ontario especially in GTA gets even harder at scale**, considering the new immigrants in Ontario, based on their preference lets try to predict prices in different cities.
